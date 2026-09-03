@@ -154,7 +154,7 @@ public class Main {
                     System.out.println(animals[5]);
                     break;
                 default:
-                    System.out.println("Indice invalido");
+                    System.out.println("Índice invalido");
             }
 
         } while (!operador.equals("exit"));
